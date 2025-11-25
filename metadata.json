@@ -1,0 +1,5 @@
+{
+  "name": "RainDrop Analytics",
+  "description": "A specialized tool for analyzing raindrop distribution on windshields. Features automatic sampling, precision marking tools, and comprehensive density calculations.",
+  "requestFramePermissions": []
+}
